@@ -82,3 +82,10 @@ h2  {
     height: 150px;
     width: 150px;
  }
+
+table.histoire{
+    border-left: null;
+    border-right: null;
+    border-top: null;
+    border-bottom: null;
+}
